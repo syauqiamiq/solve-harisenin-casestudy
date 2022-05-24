@@ -8,4 +8,4 @@ Project yang berisi hasil solving dari studi kasus yang di berikan oleh Human Ca
 - Open the project directory on terminal
 - Run this command ```node solve.js```
 
-<!---->MUST HAVE Node.js INSTALLED ON YOUR DEVICE-->
+<!----MUST HAVE Node.js INSTALLED ON YOUR DEVICE-->
